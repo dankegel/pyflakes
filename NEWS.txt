@@ -1,3 +1,6 @@
+Dan's fork:
+  - this is just for testing buildbot revlinks
+
 0.4.0 (2009-11-25):
   - Fix reporting for certain SyntaxErrors which lack line number
     information.
